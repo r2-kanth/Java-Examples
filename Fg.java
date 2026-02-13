@@ -5,7 +5,7 @@ public class Fg
         int i=1;
         int j=1;
         while(i<=4){
-            System.out.println("Hi");
+            System.out.println("Hi " + i);
             i++;
         }
     }
